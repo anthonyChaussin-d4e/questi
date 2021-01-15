@@ -1,0 +1,19 @@
+theme;ico;quest;type;rep;value
+Ecologie;fas fa-leaf;Combien d'impression faites vous par jours ? ;number;;
+Ecologie;fas fa-leaf;Combien êtes vous dans l'entreprise ?;number;;
+Ecologie;fas fa-leaf;Combien de copieurs estimez vous avoir dans l'entreprise ?;number;;
+Ecologie;fas fa-leaf;Quel type d'imprimante utilisez-vous ?;radio;Une imprimante Laser;18.675
+;;;radio;Une imprimante Jet d'encre standard;7.285
+;;;radio;Une imprimante Jet d'encre écologique;5.376
+Ecologie;fas fa-leaf;Utilisez vous du Papier recyclé ?;radio;Oui;2.5
+;;;radio;Non;12.00
+Ecologie;fas fa-leaf;Êtes vous dans une démarche de réduction de déchet ? (par exemple recyclage du papier);radio;Oui;1.18
+;;;radio;En partie;1.09
+;;;radio;Non;1.00
+Ecologie;fas fa-leaf;Programmez la mise en veilles de vos machines ? ;radio;Oui;1.08
+;;;radio;La mise en veille est automatique;1.11
+;;;radio;Non;1.00
+Ecologie;fas fa-leaf;Entretenez vous vos machines;radio;J'entretiens mes machines moi-même;0.95
+;;;radio;Une entreprise s'en occupe pour moi;1.07
+;;;radio;Je n'entretiens pas mes machines;0.90
+Ecologie;fas fa-leaf;Combien d'email envoyé vous par jour ?;number;;

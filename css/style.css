@@ -1,0 +1,5 @@
+background: rgb(152,219,122);
+background: -moz-radial-gradient(circle, rgba(152,219,122,1) 24%, rgba(35,125,4,1) 100%);
+background: -webkit-radial-gradient(circle, rgba(152,219,122,1) 24%, rgba(35,125,4,1) 100%);
+background: radial-gradient(circle, rgba(152,219,122,1) 24%, rgba(35,125,4,1) 100%);
+filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#98db7a",endColorstr="#237d04",GradientType=1);
