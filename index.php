@@ -33,7 +33,7 @@
       <title>Impressions : Bilan écologique</title>
       <header><img class="w-100" src="https://www.bureau-romand.ch/wp-content/uploads/2021/01/osez-le-vert.jpg"></header>
    <body>
-      <form class="m-auto col-md-6" method="post" action="#">
+      <form class="m-auto col-md-6 mb" method="post" action="#">
          <div id="carouselExampleIndicators" class="carousel slide" data-interval="false" data-ride="carousel">
             <ol class="carousel-indicators bg-dark">
                <?php 
